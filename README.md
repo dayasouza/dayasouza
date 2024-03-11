@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Dayana Souza 💜
 
 - 🌱 Estudante de Analise e Desenvolvimento de Sistemas
+- 💜 Estagiária de Desenvolvimento Web na Vivo
 - 📫 Contate-me no email: dayanalvesouza@gmail.com
 - 😄 Pronouns: ela/dela
 
@@ -11,11 +12,16 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Daya-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  
   <img align="center" alt="Daya-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daya-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Daya-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Daya-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Daya-PHP" height="30" width="40" src="https://www.svgrepo.com/show/452088/php.svg">
   <img align="center" alt="Daya-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Daya-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  
   <img align="right" alt="Daya-pic" height="150" style="border-radius:50px;" src="https://blogger.googleusercontent.com/img/a/AVvXsEg809PRo6_mcJVuZ4UUTlItkjyHDwNtkAu1Ptv4w_3D49lJ5QPod5dlQ1HW4mOjxBLfvbYKiR2Nm3_Okt94m8K3iMU_gyaiZv57A5JNLasBJuUrCOies932iisPtssTpyBmpDw_uJe8BFtCUPzg4-a9G17qI2juC5Axe2JETxT68FiATwk9657P0PRm">
 </div>
   

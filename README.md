@@ -1,37 +1,29 @@
-### Olá! Eu sou a Dayana Souza 💜
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932cc&height=120&section=header"/>
 
-- 🌱 Estudante de Analise e Desenvolvimento de Sistemas
-- 💜 Estagiária de Desenvolvimento Web na Vivo
-- 📫 Contate-me no email: dayanalvesouza@gmail.com
-- 😄 Pronouns: ela/dela
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=af48e2&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+DAYANA+SOUZA;Bem-Vindo(a)+💜+)
 
-<div align="center">
-  <a href="https://github.com/dayasouza">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dayasouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayasouza&layout=compact&langs_count=7&theme=radical"/>
-</div>
+- 🌱👩🏿‍💻 Estudando o último semestre de Análise e Desenvolvimento de Sistemas [UNINTER](https://www.uninter.com/).
+- 💜 Estagiária de Desenvolvimento Web Full Stack na [VIVO](https://www.linkedin.com/company/vivo-telefonicabr/), onde desenvolvo aplicações que auxiliam o pessoal do atendimento a ser mais rápido e efeitivo na resolução do problema do cliente.
+- 💻 Estudando [Java](https://www.projetojavaweb.com/), para me tornar um especialista.
+- 📖 Em constante aprendizado.
+- 📺 Nas horas vagas, entre um estudo e outro você pode me encontrar assistindo um Dorama ou algum filme do Harry Potter (Provavelmente Prisioneiro de Azkaban).
 
-<div style="display: inline_block"><br>
+### Vamos nos conectar?
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-9932cc?style=for-the-badge)](https://web.dio.me/users/dayanalvesouza)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-9932cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanalvesouza/)  [![GitHub](https://img.shields.io/badge/GitHub-9932cc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dayasouza)  [![Gmail](https://img.shields.io/badge/Gmail-9932cc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayanalvesouza@gmail.com)
+
+### Minhas Habilidades e Conhecimentos
+![Markdown](https://img.shields.io/badge/Markdown-9932cc?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-9932cc?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-9932CC?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-9932CC?style=for-the-badge&logo=php&logoColor=white) ![JAVA](https://img.shields.io/badge/JAVA-9932CC?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-9932CC?style=for-the-badge&logo=javascript&logoColor=white) ![PYTHON](https://img.shields.io/badge/python-9932CC?style=for-the-badge&logo=python&logoColor=white) ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-9932CC?style=for-the-badge&logo=bootstrap&logoColor=white) ![REACT](https://img.shields.io/badge/REACT-9932CC?style=for-the-badge&logo=react&logoColor=white) ![MYSQL](https://img.shields.io/badge/MYSQL-9932CC?style=for-the-badge&logo=MYSQL&logoColor=white) ![JAVA](https://img.shields.io/badge/JAVA-9932CC?style=for-the-badge&logo=java&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-9932CC?style=for-the-badge&logo=GIT&logoColor=white) ![VSCODE](https://img.shields.io/badge/VSCODE-9932CC?style=for-the-badge&logo=Visual-studio-code&logoColor=white)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DAYASOUZA&theme=midnight-purple&background=000&border=af48e2&dates=FFF)](https://git.io/streak-stats) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DAYASOUZA&theme=midnight-purple&bg_color=000&border_color=af48e2&show_icons=true&icon_color=af48e2&title_color=9932cc&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DAYASOUZA&theme=midnight-purple&layout=compact&bg_color=000&border_color=AF48E3&title_color=9932CC&text_color=FFF) 
+<div> 
   
-  
-  <img align="center" alt="Daya-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Daya-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Daya-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Daya-PHP" height="30" width="40" src="https://www.svgrepo.com/show/452088/php.svg">
-  <img align="center" alt="Daya-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Daya-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  
-  <img align="right" alt="Daya-pic" height="150" style="border-radius:50px;" src="https://blogger.googleusercontent.com/img/a/AVvXsEg809PRo6_mcJVuZ4UUTlItkjyHDwNtkAu1Ptv4w_3D49lJ5QPod5dlQ1HW4mOjxBLfvbYKiR2Nm3_Okt94m8K3iMU_gyaiZv57A5JNLasBJuUrCOies932iisPtssTpyBmpDw_uJe8BFtCUPzg4-a9G17qI2juC5Axe2JETxT68FiATwk9657P0PRm">
-</div>
-  
-  ##
-  
-  <div> 
-  <a href="https://instagram.com/dayana_alves_souza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:dayanalvesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/dayanalvesouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/dayasouza/dayasouza/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+### MEUS REPOSITÓRIOS
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DAYASOUZA&repo=extensionista&theme=midnight-purple&bg_color=000&border_color=af4832&show_icons=true&icon_color=9332cc&title_color=9932cc&text_color=FFF)](https://github.com/dayasouza/extensionista) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DAYASOUZA&repo=dayana-souza-portifolio&theme=midnight-purple&bg_color=000&border_color=af4832&show_icons=true&icon_color=9332cc&title_color=9932cc&text_color=FFF)](https://github.com/dayasouza/dayana-souza-portifolio) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DAYASOUZA&repo=site-mulheres-tech&theme=midnight-purple&bg_color=000&border_color=af4832&show_icons=true&icon_color=9332cc&title_color=9932cc&text_color=FFF)](https://github.com/dayasouza/site-mulheres-tech) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DAYASOUZA&repo=intro-starWars&theme=midnight-purple&bg_color=000&border_color=af4832&show_icons=true&icon_color=9332cc&title_color=9932cc&text_color=FFF)](https://github.com/dayasouza/intro-starWars)
+  
+  

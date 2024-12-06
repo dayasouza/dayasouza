@@ -2,9 +2,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=af48e2&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+DAYANA+SOUZA;Bem-Vindo(a)+💜+)
 
-- 🌱👩🏿‍💻 Estudando o último semestre de Análise e Desenvolvimento de Sistemas [UNINTER](https://www.uninter.com/).
-- 💜 Estagiária de Desenvolvimento Web Full Stack na [VIVO](https://www.linkedin.com/company/vivo-telefonicabr/), onde desenvolvo aplicações que auxiliam o pessoal do atendimento a ser mais rápido e efeitivo na resolução do problema do cliente.
+
+- 💜 Desenvolvedora Web Full Stack na [VIVO](https://www.linkedin.com/company/vivo-telefonicabr/), onde desenvolvo aplicações web que auxiliam o pessoal do atendimento a ser mais rápido e efeitivo na resolução do problema do cliente.
+- 🌱👩🏿‍💻 Formada em Análise e Desenvolvimento de Sistemas [UNINTER](https://www.uninter.com/).
 - 💻 Estudando [Java](https://www.projetojavaweb.com/), para me tornar um especialista.
+- 💻 Estudando [PHP](https://www.udemy.com/course/web-completo/).
+- 💻 Estudando [React](https://web.dio.me/track/96301410-2dd7-4bb7-b992-85cb0bf5f1a2).
 - 📖 Em constante aprendizado.
 - 📺 Nas horas vagas, entre um estudo e outro você pode me encontrar assistindo um Dorama ou algum filme do Harry Potter (Provavelmente Prisioneiro de Azkaban).
 

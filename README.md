@@ -5,11 +5,10 @@
 
 - 💜 Desenvolvedora Web Full Stack na [VIVO](https://www.linkedin.com/company/vivo-telefonicabr/), onde desenvolvo aplicações web que auxiliam o pessoal do atendimento a ser mais rápido e efeitivo na resolução do problema do cliente.
 - 🌱👩🏿‍💻 Formada em Análise e Desenvolvimento de Sistemas [UNINTER](https://www.uninter.com/).
-- 💻 Estudando [Java](https://www.projetojavaweb.com/), para me tornar um especialista.
-- 💻 Estudando [PHP](https://www.udemy.com/course/web-completo/).
+- 💻 Estudando [Node.js](https://onebitcode.com/javascript).
 - 💻 Estudando [React](https://web.dio.me/track/96301410-2dd7-4bb7-b992-85cb0bf5f1a2).
 - 📖 Em constante aprendizado.
-- 📺 Nas horas vagas, entre um estudo e outro você pode me encontrar assistindo um Dorama ou algum filme do Harry Potter (Provavelmente Prisioneiro de Azkaban).
+- 📺 Nas horas vagas, entre um estudo e outro você pode me encontrar assistindo um K-drama ou algum filme do Harry Potter (Provavelmente Prisioneiro de Azkaban).
 
 ### Vamos nos conectar?
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-9932cc?style=for-the-badge)](https://web.dio.me/users/dayanalvesouza)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-9932cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanalvesouza/)  [![GitHub](https://img.shields.io/badge/GitHub-9932cc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dayasouza)  [![Gmail](https://img.shields.io/badge/Gmail-9932cc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayanalvesouza@gmail.com)
